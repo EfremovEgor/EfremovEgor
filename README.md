@@ -1,5 +1,5 @@
-### Hello everyone, my name is Egor 👋<br>
-My tech stack:
+# Hello everyone, my name is Egor 👋<br>
+### My tech stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" title="vscode"/>
   <img src="https://skillicons.dev/icons?i=git" title="GIT"/>
