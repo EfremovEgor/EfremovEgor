@@ -9,9 +9,10 @@ My tech stack:
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="Mongodb"/>
 </p></br>
 
-### 📈🐌 My humble statistics; sadly, it only shows my personal projects:
+### 📈🐌 My statistics; (only personal projects):
 
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremovEgor&theme=tokyonight&layout=compact)
 
