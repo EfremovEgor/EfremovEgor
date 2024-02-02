@@ -9,6 +9,7 @@
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
+  </br>
   <img src="https://skillicons.dev/icons?i=mongodb" title="Mongodb"/>
   <img src="https://skillicons.dev/icons?i=django" title="Django"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
