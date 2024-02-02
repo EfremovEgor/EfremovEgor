@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi" title="Fastapi"/>
 </p></br>
 
-### 📈🐌 My statistics; (only personal projects):
+### Statistics; (only personal projects):
 
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremovEgor&theme=tokyonight&layout=compact)
 
