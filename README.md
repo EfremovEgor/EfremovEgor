@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" title="CPP"/>
   <img src="https://skillicons.dev/icons?i=cs" title="CS"/>
   <img src="https://skillicons.dev/icons?i=bots" title="Bots"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
 </p></br>
 
 ### Statistics (only personal projects):
