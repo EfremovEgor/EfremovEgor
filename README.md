@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello everyone, my name is Egor 👋<br>
+My tech stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" title="vscode"/>
+  <img src="https://skillicons.dev/icons?i=git" title="GIT"/>
+  <img src="https://skillicons.dev/icons?i=github" title="github"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
+</p></br>
 
-<!--
-**EfremovEgor/EfremovEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈🐌 My humble statistics; sadly, it only shows my personal projects:
 
-Here are some ideas to get you started:
+#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremovEgor&theme=tokyonight&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
