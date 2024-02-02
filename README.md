@@ -18,11 +18,9 @@
   <img src="https://skillicons.dev/icons?i=cs" title="CS"/>
   <img src="https://skillicons.dev/icons?i=bots" title="Bots"/>
   <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-</p></br>
+</p>
 
 ### Statistics (only personal projects):
 
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremovEgor&theme=tokyonight&layout=compact)
 
-</br>
-</br>
