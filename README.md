@@ -10,6 +10,9 @@ My tech stack:
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
   <img src="https://skillicons.dev/icons?i=mongodb" title="Mongodb"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="Fastapi"/>
 </p></br>
 
 ### 📈🐌 My statistics; (only personal projects):
