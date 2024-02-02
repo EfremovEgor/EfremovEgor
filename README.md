@@ -13,6 +13,9 @@
   <img src="https://skillicons.dev/icons?i=django" title="Django"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=fastapi" title="Fastapi"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="CPP"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="CS"/>
+  <img src="https://skillicons.dev/icons?i=bots" title="Bots"/>
 </p></br>
 
 ### Statistics (only personal projects):
