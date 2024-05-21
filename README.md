@@ -6,12 +6,15 @@
   <img src="https://skillicons.dev/icons?i=github" title="github"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+<br/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
-  </br>
+  <img src="https://skillicons.dev/icons?i=php" title="Postgres"/>
   <img src="https://skillicons.dev/icons?i=mongodb" title="Mongodb"/>
   <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+<br/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=fastapi" title="Fastapi"/>
   <img src="https://skillicons.dev/icons?i=cpp" title="CPP"/>
